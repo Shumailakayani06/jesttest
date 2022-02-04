@@ -28,5 +28,5 @@ jobs:
      - name: Run npm install
        run : npm
        
-     - name: run tests
+     - name: run test
        run : npm jest   
